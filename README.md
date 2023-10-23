@@ -1,13 +1,14 @@
 # Regulatory Compliance Workbook
 
-- [Main features:](#main-features)
-- [Examples](#examples)
-  - [Overview](#overview)
-  - [In Context Details](#in-context-details)
-  - [Contextual Links](#contextual-links)
-  - [Export](#export)
-- [Deploy the Workbook](#deploy-the-workbook)
-- [Open the Workbook](#open-the-workbook)
+- [Regulatory Compliance Workbook](#regulatory-compliance-workbook)
+  - [Main features](#main-features)
+  - [Examples](#examples)
+    - [Overview](#overview)
+    - [In Context Details](#in-context-details)
+    - [Contextual Links](#contextual-links)
+    - [Export](#export)
+  - [Deploy the Workbook](#deploy-the-workbook)
+  - [Open the Workbook](#open-the-workbook)
 
 
 This Azure workbook was initially created to help our Dutch government customers to visualize compliance information produced by the [BIO Compliance Initiative](https://github.com/Azure/Bio-Compliancy). As the workbook targets policy initiatives of category **Regulatory Compliance** it can also be used for other regulatory compliance initiatives.
