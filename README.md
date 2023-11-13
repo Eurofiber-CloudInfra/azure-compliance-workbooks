@@ -40,6 +40,9 @@ The workbook can be opened from the resource group where it has been deployed or
 <kbd><img src="media/overview.png"></kbd>
 
 ### In Context Details
+By selecting a row you can view additional information on control, policy definition, resource or exemption.
+</br>
+</br>
 <kbd><img src="media/context-details.png"></kbd>
 
 Look up the effective exemption information for the selected resource policy combination.
@@ -51,9 +54,15 @@ Look up the effective exemption information for the selected resource policy com
 <kbd><img src="media/assignment-details.png"></kbd>
 
 ### Exemption List
+See all exemptions for the selected policy set assignment. The list can be filtered on policy definition to view only exemptions that are effective for the selected policy definition.
+</br>
+</br>
 <kbd><img src="media/exemption-list.png"></kbd>
 
 ### Export
+The export section allows you to export complliance state totals per control or policy definition.
+</br>
+</br>
 <kbd><img src="media/export.png"></kbd>
 
 ### State Changes
