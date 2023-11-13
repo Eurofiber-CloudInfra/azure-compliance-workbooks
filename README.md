@@ -1,16 +1,16 @@
 # Regulatory Compliance Workbook
 
-- [Main features](#main-features)
-- [Deploy the Workbook](#deploy-the-workbook)
-- [Open the Workbook](#open-the-workbook)
-- [Examples](#examples)
-  - [Overview](#overview)
-  - [In Context Details](#in-context-details)
-  - [Assignment Details](#assignment-details)
-  - [Exemption List](#exemption-list)
-  - [Export](#export)
-  - [State Changes](#state-changes)
-
+- [Regulatory Compliance Workbook](#regulatory-compliance-workbook)
+  - [Main features](#main-features)
+  - [Deploy the Workbook](#deploy-the-workbook)
+  - [Open the Workbook](#open-the-workbook)
+  - [Examples](#examples)
+    - [Overview](#overview)
+    - [In Context Details](#in-context-details)
+    - [Assignment Details](#assignment-details)
+    - [Exemption List](#exemption-list)
+    - [Export](#export)
+    - [State Changes](#state-changes)
 
 This Azure workbook was initially created to help our Dutch government customers to visualize compliance information produced by the [BIO Compliance Initiative](https://github.com/Azure/Bio-Compliancy). As the workbook targets policy initiatives of category **Regulatory Compliance** it can also be used for other regulatory compliance initiatives.
 
@@ -21,6 +21,8 @@ This Azure workbook was initially created to help our Dutch government customers
 - Export compliance report to Excel
 - Shows effective exemption information for a resource based on policy definition
 - Shows policy state change information
+
+
 
 Check the [changelog](./CHANGELOG.md) for the latest changes.
 
@@ -66,7 +68,7 @@ The export section allows you to export complliance state totals per control or 
 <kbd><img src="media/export.png"></kbd>
 
 ### State Changes
-Policy state changes shows the state change events for a selected time frame. The events are collected using an Events Grid System Topic. An explanation on how to setup such a configuration can be found [here](https://github.com/Eurofiber-CloudInfra/azure-policy-insights).
+Policy state changes shows the state change events for a selected time frame.  Policy state changes are collected using an Event Grid System Topic. An explanation on how to setup such a configuration can be found [here](https://github.com/Eurofiber-CloudInfra/azure-policy-insights).
 </br>
 </br>
 <kbd><img src="media/state-changes.png"></kbd>
