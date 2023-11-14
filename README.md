@@ -33,7 +33,7 @@ The workbook can be deployed in your environment using the **Deploy to Azure** b
 
 ## Open the Workbook
 
-The workbook can be opened from the resource group where it has been deployed or from the **Defender for Cloud** page in the Azure portal. It can be found under the **Workbooks** section (make sure you have select the subscription where the workbook has been deployed). <br><br>
+The workbook can be opened from the resource group where it has been deployed or from the **Defender for Cloud** page in the Azure portal. It can be found under the **Workbooks** section (make sure you have selected the subscription where the workbook has been deployed). <br><br>
 <kbd><img src="media/defender-for-cloud.png" alt="defender"></kbd>
 
 ## Examples
