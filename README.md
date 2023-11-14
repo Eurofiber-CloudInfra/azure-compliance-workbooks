@@ -62,7 +62,7 @@ See all exemptions for the selected policy set assignment. The list can be filte
 <kbd><img src="media/exemption-list.png"></kbd>
 
 ### Export
-The export section allows you to export complliance state totals per control or policy definition.
+The export section allows you to export compliance state totals per control or policy definition.
 </br>
 </br>
 <kbd><img src="media/export.png"></kbd>
